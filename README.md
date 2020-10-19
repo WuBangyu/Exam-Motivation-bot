@@ -1,4 +1,4 @@
-# Motivation-bot
+# Exam-Motivation-bot
 print("Title of program: Exam motivation bot")
 print()
 while True:
